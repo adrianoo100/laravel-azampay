@@ -1,12 +1,12 @@
 {
-    "name": "alphaolomi/laravel-azampay",
+    "name": "adrianoo100/laravel-azampay",
     "description": "Laravel Azampay",
     "keywords": [
         "alphaolomi",
         "laravel",
         "laravel-azampay"
     ],
-    "homepage": "https://github.com/alphaolomi/laravel-azampay",
+    "homepage": "https://github.com/adrianoo100/laravel-azampay",
     "license": "MIT",
     "authors": [
         {
@@ -65,6 +65,13 @@
             }
         }
     },
+    
     "minimum-stability": "dev",
     "prefer-stable": true
 }
+"repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/adrianoo100/laravel-azampay"
+  }
+]
